@@ -65,4 +65,4 @@ Enter 6 constants
 * long
 123456789098765431235678990897
 123456789098765431235678990897 can't be fitted anywhere.
-Press any key to continue . . .
+Press any key to continue . .
